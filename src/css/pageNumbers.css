@@ -1,0 +1,32 @@
+.pageNumbers {
+    margin-top: 50px;
+    width: 100%;
+    list-style:none;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+
+.pageNumbers button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.pageNumbers button:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .active {
+    background-color: #ddd;
+    color: black;
+  }
