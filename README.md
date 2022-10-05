@@ -21,3 +21,10 @@ yuji      pwd2
 ROLE_USER
 Username  password
 ram       pwd1
+
+
+Testing Search
+
+> type any city names greater than three characters
+
+ex: ben
